@@ -41,9 +41,9 @@
 
 
         <dependency>
-            <groupId>cn.vivame.project</groupId>
-            <artifactId>fastdfs_client</artifactId>
-            <version>1.24</version>
+            <groupId>org.csource</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
+            <version>1.27-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>ch.ethz.ganymed</groupId>
